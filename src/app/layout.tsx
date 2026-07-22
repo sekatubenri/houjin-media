@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     locale: 'ja_JP',
     siteName: '法人・フリーランスナビ',
   },
-  verification: { google: 'XcyMImXtiMlMj5NBeiKQBcD_Vqrw3EDW0TDFBVTAtaA' },
+  verification: { google: 'PXvojUQ9k7PpQnJRnLa8NtnkVnD8K2w_89V6aWgq1NM' },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
