@@ -3,6 +3,7 @@ import Script from 'next/script'
 import './globals.css'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://houjin-select.com'),
   title: {
     default: '法人・フリーランスナビ｜資金調達・節税・法人カード比較',
     template: '%s｜法人・フリーランスナビ',

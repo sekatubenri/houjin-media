@@ -6,7 +6,7 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 const SITE = {
   name: '法人・フリーランスナビ',
-  url: 'https://houjin-media.vercel.app',
+  url: 'https://houjin-select.com',
 };
 
 const AFFILIATE_TOP = `
