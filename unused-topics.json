@@ -298,5 +298,150 @@
     "title": "消費税の簡易課税制度とは【対象者・メリット・届出方法】",
     "category": "tax",
     "filename": "simplified-consumption-tax.json"
+  },
+  {
+    "title": "2社間ファクタリングと3社間ファクタリングの違いを徹底比較",
+    "category": "factoring",
+    "filename": "factoring-2sha-vs-3sha.json"
+  },
+  {
+    "title": "ファクタリングの審査に落ちる理由と通過するための対策",
+    "category": "factoring",
+    "filename": "factoring-screening-tips.json"
+  },
+  {
+    "title": "ファクタリングとビジネスローンの違いと使い分け方",
+    "category": "factoring",
+    "filename": "factoring-vs-business-loan.json"
+  },
+  {
+    "title": "農業・畜産業経営者向けファクタリング活用法",
+    "category": "factoring",
+    "filename": "factoring-agriculture.json"
+  },
+  {
+    "title": "飲食店オーナーの資金繰りにファクタリングを使う方法",
+    "category": "factoring",
+    "filename": "factoring-restaurant.json"
+  },
+  {
+    "title": "ファクタリング契約書で必ず確認すべきチェックポイント",
+    "category": "factoring",
+    "filename": "factoring-contract-check.json"
+  },
+  {
+    "title": "ファクタリング手数料の相場と値下げ交渉のコツ",
+    "category": "factoring",
+    "filename": "factoring-fee-negotiation.json"
+  },
+  {
+    "title": "運送業・トラック運送会社のファクタリング活用術",
+    "category": "factoring",
+    "filename": "factoring-transport.json"
+  },
+  {
+    "title": "ファクタリングを繰り返し利用する際の注意点",
+    "category": "factoring",
+    "filename": "factoring-repeat-use.json"
+  },
+  {
+    "title": "法人カードの利用限度額を上げる方法【増枠申請のコツ】",
+    "category": "card",
+    "filename": "houjin-card-limit-up.json"
+  },
+  {
+    "title": "出張時に便利な法人カード付帯サービス比較【空港ラウンジ等】",
+    "category": "card",
+    "filename": "houjin-card-travel-benefit.json"
+  },
+  {
+    "title": "法人カードの不正利用を防ぐセキュリティ対策",
+    "category": "card",
+    "filename": "houjin-card-security.json"
+  },
+  {
+    "title": "個人事業主でも作れる法人カードまとめ【審査難易度別】",
+    "category": "card",
+    "filename": "kojin-jigyonushi-card.json"
+  },
+  {
+    "title": "法人カードの締め日・支払日を経理業務に合わせる管理術",
+    "category": "card",
+    "filename": "houjin-card-closing-date.json"
+  },
+  {
+    "title": "複数の法人カードを部署・用途別に使い分ける経費管理術",
+    "category": "card",
+    "filename": "houjin-card-multi-use.json"
+  },
+  {
+    "title": "スタートアップ・創業期におすすめの法人カード比較",
+    "category": "card",
+    "filename": "houjin-card-startup.json"
+  },
+  {
+    "title": "法人カードを解約する際の注意点とタイミング",
+    "category": "card",
+    "filename": "houjin-card-cancel.json"
+  },
+  {
+    "title": "法人カードのキャッシュバック・優待特典を比較する",
+    "category": "card",
+    "filename": "houjin-card-cashback.json"
+  },
+  {
+    "title": "個人カードと法人カードを併用する際の会計処理の違い",
+    "category": "card",
+    "filename": "houjin-card-accounting-diff.json"
+  },
+  {
+    "title": "中小企業倒産防止共済(経営セーフティ共済)で節税する方法",
+    "category": "tax",
+    "filename": "keiei-safety-kyosai.json"
+  },
+  {
+    "title": "短期前払費用の特例を使った決算前節税テクニック",
+    "category": "tax",
+    "filename": "tanki-zenbarai-hiyou.json"
+  },
+  {
+    "title": "出張旅費規程を整備して節税する方法【中小企業向け】",
+    "category": "tax",
+    "filename": "shucchou-ryohi-kitei.json"
+  },
+  {
+    "title": "ふるさと納税を法人が活用する企業版ふるさと納税とは",
+    "category": "tax",
+    "filename": "kigyo-furusato-nozei.json"
+  },
+  {
+    "title": "インボイス制度後に免税事業者が取るべき選択肢",
+    "category": "tax",
+    "filename": "invoice-mensei-jigyosha.json"
+  },
+  {
+    "title": "決算賞与を活用した節税と資金繰りの両立方法",
+    "category": "tax",
+    "filename": "kessan-shoyo-tax.json"
+  },
+  {
+    "title": "個人事業主から法人成りする最適なタイミングと節税メリット",
+    "category": "tax",
+    "filename": "houjin-nari-timing.json"
+  },
+  {
+    "title": "副業の確定申告で経費計上する際の注意点【2026年版】",
+    "category": "tax",
+    "filename": "fukugyo-kakuteishinkoku.json"
+  },
+  {
+    "title": "消費税還付を受けるための手続きと必要条件",
+    "category": "tax",
+    "filename": "shohizei-kanpu.json"
+  },
+  {
+    "title": "経営者向け生命保険を使った節税スキームの見直し2026",
+    "category": "tax",
+    "filename": "keieisha-seimeihoken-tax.json"
   }
 ]
