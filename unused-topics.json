@@ -300,11 +300,6 @@
     "filename": "simplified-consumption-tax.json"
   },
   {
-    "title": "個人カードと法人カードを併用する際の会計処理の違い",
-    "category": "card",
-    "filename": "houjin-card-accounting-diff.json"
-  },
-  {
     "title": "中小企業倒産防止共済(経営セーフティ共済)で節税する方法",
     "category": "tax",
     "filename": "keiei-safety-kyosai.json"
